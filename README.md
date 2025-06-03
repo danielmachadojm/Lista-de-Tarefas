@@ -68,14 +68,12 @@ Como Usar
 O sistema funciona via terminal com um menu intuitivo:
 
 ===== MENU =====
-1. Adicionar tarefa
-2. Listar tarefas
-3. Listar tarefas pendentes
-4. Listar tarefas concluídas
-5. Alterar status de tarefa
-6. Ordenar tarefas
-7. Excluir tarefa
-8. Exportar tarefas
+1. Listar tarefas
+2. Adicionar tarefas
+3. Alterar status de tarefa
+4. Ordenar tarefas
+5. Excluir tarefa
+6. Exportar tarefas
 0. Sair
 
 Tecnologias Utilizadas:
