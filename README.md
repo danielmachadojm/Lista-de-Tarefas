@@ -50,7 +50,7 @@ GerenciadorTarefas.java
 
 2. **Clone o projeto**:
 
-`git clone https://github.com/seu-usuario/lista-tarefas-java.git`
+`git clone https://github.com/danielmachadojm/Lista-de-Tarefas.git`
 `cd lista-tarefas-java`
 
 Compile o projeto:
