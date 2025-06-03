@@ -89,17 +89,14 @@ Tecnologias Utilizadas:
 
 - Biblioteca iText (lowagie) para exportação em PDF
 
-🤝 Autores
-Desenvolvido por alunos da Universidade Católica do Salvador (UCSAL):
+🤝 Autores:
+
+(Desenvolvido por alunos da Universidade Católica do Salvador (UCSAL)):
 
 - Breno Souza
-
 - Caio Bispo
-
 - Cauã Garrido
-
 - Daniel Machado
-
 - Gustavo Martins
 
 Orientador: Prof. Mário Pereira
